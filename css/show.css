@@ -1,0 +1,137 @@
+.cardmain {
+    height: 25rem;
+        margin-top: 1rem;
+    border: none !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1),
+
+        0 6px 20px rgba(0, 0, 0, 0.1);
+
+    transition: box-shadow 0.3s ease-in-out;
+
+}
+
+.cardmain:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2),
+        /* more pronounced shadow on hover */
+        0 12px 40px rgba(0, 0, 0, 0.2);
+    /* larger, softer shadow on hover */
+}
+
+.card-body * {
+    margin: 0;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.order {
+    margin-top: 3rem;
+    display: flex;
+
+    justify-content: space-evenly;
+    align-items: center;
+    height: 3rem;
+
+}
+
+.order a {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+
+.qnt {
+    width: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.form-comment {
+    margin: 0 !important;
+    padding: 0 !important;
+    color: black !important;
+    font-size: 1.5rem;
+}
+
+.commentq {
+    display: flex;
+    justify-content: space-between;
+}
+
+.homeimage {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardbody {
+    display: flex;
+    justify-content: space-between;
+}
+
+p span {
+    display: flex;
+    gap: 1rem;
+}
+
+.dis {
+    text-decoration: line-through !important;
+}
+
+.card {
+
+    margin-bottom: 2rem;
+
+}
+
+.card-img-top {
+    border-radius: 1rem !important;
+    width: 100% !important;
+    object-fit: cover !important;
+    height: 15rem !important;
+}
+
+.card-img-top2 {
+    height: 25rem !important;
+}
+
+.card-body {
+    padding: 0;
+    padding-left: 0.5rem;
+}
+
+
+
+.card-img-overlay1 {
+    height: 15rem !important;
+    opacity: 0;
+}
+
+.card-img-overlay1:hover {
+    transition: 300ms;
+    opacity: 0.5;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    height: 15rem !important;
+}
+
+.card-text2 {
+    font-weight: 400;
+    display: flex;
+    justify-content: space-between;
+    /* Ensures that there's space between the description label and the actual description */
+    align-items: center;
+    /* Vertically centers the text */
+}
+
+.gap1 {
+    font-weight: 500;
+    margin-left: 1rem;
+
+}

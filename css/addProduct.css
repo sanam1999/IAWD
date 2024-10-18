@@ -1,0 +1,25 @@
+button,
+.a {
+    width: 10rem;
+}
+
+.form-label {
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin-bottom: 0 !important;
+}
+
+
+
+input,
+select,
+textarea {
+    border: solid black 1px !important;
+    height: 2.5rem !important;
+
+}
+
+textarea {
+
+    height: 5rem !important;
+}

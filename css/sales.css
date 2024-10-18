@@ -1,0 +1,10 @@
+   .btn-dark:hover {
+       background-color: black;
+
+   }
+
+   .status p i {
+       margin-top: 6rem;
+       font-size: 0.9rem;
+       color: red;
+   }

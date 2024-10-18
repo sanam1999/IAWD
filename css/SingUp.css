@@ -1,0 +1,20 @@
+button {
+    width: 10rem;
+}
+
+.form-label {
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+
+
+input {
+    border: solid black 1px !important;
+    height: 2.5rem !important;
+}
+
+.form-check-input {
+    height: 1.3rem !important;
+    width: 1.3rem !important;
+}

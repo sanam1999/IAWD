@@ -1,0 +1,14 @@
+    button,
+    .a {
+        width: 10rem;
+    }
+
+    .form-label {
+        font-weight: 500;
+        font-size: 1.3rem;
+    }
+
+    input {
+        border: solid black 1px !important;
+        height: 2.5rem !important;
+    }
