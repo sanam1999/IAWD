@@ -1,0 +1,708 @@
+[
+  {
+    "product_id": "8h-9i0j-1k2l3m4n5o6r",
+    "user_id": "123",
+    "category": "Electronics",
+    "title": "Wireless Bluetooth Speaker",
+    "description": "High-quality sound with deep bass.",
+    "price": 75.99,
+    "stock": 15,
+    "conditio": "New",
+    "created_at": "2023-08-21 10:15:30",
+     "imageUrl" :"img1.webp"
+    
+  },
+   {
+    "product_id": "-74g7cfff77j78k79l",
+    "user_id": "123",
+    "category": "Electronics",
+    "title": "Smart Light Bulbs",
+    "description": "Wi-Fi enabled light bulbs with color-changing features.",
+    "price": 45.00,
+    "stock": 50,
+    "conditio": "New",
+    "created_at": "2023-08-22 01:30:20",
+     "imageUrl" :"img2.jpeg"
+  },
+   {
+    "product_id": "-55w56x-57y58z59a60b",
+    "user_id": "123",
+    "category": "Electronics",
+    "title": "Portable Power Bank",
+    "description": "High-capacity power bank for all devices.",
+    "price": 29.99,
+    "stock": 60,
+    "conditio": "New",
+    "created_at": "2023-08-21 19:55:00",
+     "imageUrl" :"img3.jpeg"
+  },
+
+
+{
+"product_id": "-84q85r-86s87t88u89v",
+"user_id": "123",
+"category": "Electronics",
+"title": "Smartwatch",
+"description": "Feature-rich smartwatch with fitness tracking.",
+"price": 199.99,
+"stock": 15,
+"conditio": "New",
+"created_at": "2023-08-22 07:30:00",
+ "imageUrl" :"img4.jpeg"
+},
+
+ {
+    "product_id": "1k-2l3m-4n5o6p7q8r9s",
+    "user_id": "123",
+    "category": "Mobile Phones",
+    "title": "Smartphone Protective Case",
+    "description": "Durable case with shock absorption.",
+    "price": 19.99,
+    "stock": 50,
+    "conditio": "New",
+    "created_at": "2023-08-21 13:45:12",
+     "imageUrl" :"img5.jpeg"
+  },
+  {
+    "product_id": "-77j78k-79l80m81n82o",
+    "user_id": "123",
+    "category": "Mobile Phones",
+    "title": "Screen Protector",
+    "description": "Tempered glass screen protector for smartphones.",
+    "price": 15.00,
+    "stock": 100,
+    "conditio": "New",
+    "created_at": "2023-08-22 03:15:30",
+     "imageUrl" :"img6.jpeg"
+  },
+  {
+"product_id": "-97d98e-99f00g01h02i",
+"user_id": "123",
+"category": "Mobile Phones",
+"title": "Phone Case",
+"description": "Durable phone case with shock absorption.",
+"price": 20.00,
+"stock": 55,
+"conditio": "New",
+"created_at": "2023-08-22 15:40:00",
+ "imageUrl" :"img7.webp"
+},
+{
+"product_id": "8j-9k0l-1m2n3o4p5q6r",
+"user_id": "123",
+"category": "Mobile Phones",
+"title": "Wireless Earbuds",
+"description": "Compact wireless earbuds with excellent sound quality.",
+"price": 90.00,
+"stock": 30,
+"conditio": "New",
+"created_at": "2023-08-22 21:40:30",
+ "imageUrl" :"img8.avif"
+},
+{
+"product_id": "-87t88u-89v90w91x92y",
+"user_id": "123",
+"category": "Mobile Phones",
+"title": "Phone Charger",
+"description": "Fast-charging phone charger with multiple connectors.",
+"price": 25.00,
+"stock": 60,
+"conditio": "New",
+"created_at": "2023-08-22 09:30:15",
+ "imageUrl" :"img9.avif"
+},
+
+    {
+    "product_id": "3m-4n5o-6p7q8r9s0t1u",
+    "user_id": "123",
+    "category": "Cameras",
+    "title": "Digital Camera Tripod",
+    "description": "Lightweight and portable tripod.",
+    "price": 55.75,
+    "stock": 18,
+    "conditio": "New",
+    "created_at": "2023-08-21 15:05:30",
+     "imageUrl" :"img10.jpg"
+  },
+
+
+
+
+
+
+
+
+    {
+    "product_id": "-69b70c-71d72e73f74g",
+    "user_id": "123",
+    "category": "Cameras",
+    "title": "DSLR Camera Bag",
+    "description": "Compact and durable camera bag with multiple pockets.",
+    "price": 65.50,
+    "stock": 22,
+    "conditio": "New",
+    "created_at": "2023-08-21 22:45:00",
+     "imageUrl" :"img11.jpeg"
+  },
+  {
+"product_id": "-99f00g-01h02i03j04k",
+"user_id": "123",
+"category": "Cameras",
+"title": "Camera Tripod",
+"description": "Adjustable tripod for stable camera shots.",
+"price": 45.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 16:45:00",
+ "imageUrl" :"img12.jpg"
+},
+{
+"product_id": "-89v90w-91x92y93z94a",
+"user_id": "123",
+"category": "Cameras",
+"title": "Camera Battery",
+"description": "Rechargeable battery for digital cameras.",
+"price": 30.00,
+"stock": 40,
+"conditio": "New",
+"created_at": "2023-08-22 10:50:15",
+ "imageUrl" :"img13.webp"
+},
+{
+"product_id": "-79l80m-81n82o83p84q",
+"user_id": "123",
+"category": "Cameras",
+"title": "Camera Lens Cleaner Kit",
+"description": "Complete kit for cleaning camera lenses.",
+"price": 20.00,
+"stock": 65,
+"conditio": "New",
+"created_at": "2023-08-22 04:25:30",
+ "imageUrl" :"img14.jpg"
+},
+  {
+"product_id": "-00g01h-02i03j04k05l",
+"user_id": "123",
+"category": "Men's Clothing",
+"title": "Men's Suit Jacket",
+"description": "Classic suit jacket for formal events.",
+"price": 150.00,
+"stock": 12,
+"conditio": "New",
+"created_at": "2023-08-22 17:20:30",
+ "imageUrl" :"img15.webp"
+},
+
+  {
+    "product_id": "4n-5o6p-7q8r9s0t1u2v",
+    "user_id": "123",
+    "category": "Men's Clothing",
+    "title": "Men's Denim Jacket",
+    "description": "Classic fit denim jacket with button closure.",
+    "price": 65.00,
+    "stock": 30,
+    "conditio": "New",
+    "created_at": "2023-08-21 15:45:50",
+     "imageUrl" :"img16.jpg"
+  },
+    {
+    "product_id": "-71d72e-73f74g75h76i",
+    "user_id": "123",
+    "category": "Women's Clothing",
+    "title": "Women's Winter Coat",
+    "description": "Warm and stylish coat for the winter season.",
+    "price": 120.00,
+    "stock": 15,
+    "conditio": "New",
+    "created_at": "2023-08-21 23:45:30",
+     "imageUrl" :"img17.jpg"
+  },
+  {
+    "product_id": "5o-6p7q-8r9s0t1u2v3w",
+    "user_id": "123",
+    "category": "Women's Clothing",
+    "title": "Women's Summer Dress",
+    "description": "Lightweight and breathable fabric.",
+    "price": 35.99,
+    "stock": 40,
+    "conditio": "New",
+    "created_at": "2023-08-21 16:25:45",
+     "imageUrl" :"img18.webp"
+  },
+  {
+"product_id": "-91x92y-93z94a95b96c",
+"user_id": "123",
+"category": "Women's Clothing",
+"title": "Women's Sunglasses",
+"description": "Trendy sunglasses with UV protection.",
+"price": 40.00,
+"stock": 30,
+"conditio": "New",
+"created_at": "2023-08-22 12:05:00",
+ "imageUrl" :"img19.jpeg"
+},
+{
+"product_id": "-81n82o-83p84q85r86s",
+"user_id": "123",
+"category": "Women's Clothing",
+"title": "Women's Handbag",
+"description": "Elegant handbag with multiple compartments.",
+"price": 75.00,
+"stock": 20,
+"conditio": "New",
+"created_at": "2023-08-22 05:35:00",
+ "imageUrl" :"img20.jpg"
+},
+
+
+
+
+
+
+
+
+
+{
+"product_id": "-01h02i-03j04k05l06m",
+"user_id": "123",
+"category": "Women's Clothing",
+"title": "Summer Dress",
+"description": "Lightweight summer dress with floral patterns.",
+"price": 70.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 17:55:00",
+ "imageUrl" :"img21.jpeg"
+},
+
+{
+"product_id": "-02i03j-04k05l06m07n",
+"user_id": "123",
+"category": "Shoes",
+"title": "Running Shoes",
+"description": "High-performance running shoes for athletes.",
+"price": 90.00,
+"stock": 18,
+"conditio": "New",
+"created_at": "2023-08-22 18:30:30",
+ "imageUrl" :"img22.webp"
+},
+{
+"product_id": "-92y93z-94a95b96c97d",
+"user_id": "123",
+"category": "Shoes",
+"title": "Formal Loafers",
+"description": "Stylish loafers suitable for formal events.",
+"price": 75.00,
+"stock": 20,
+"conditio": "New",
+"created_at": "2023-08-22 12:45:30",
+ "imageUrl" :"img23.jpg"
+},
+  {
+    "product_id": "6p-7q8r-9s0t1u2v3w4x",
+    "user_id": "123",
+    "category": "Shoes",
+    "title": "Running Shoes",
+    "description": "Comfortable running shoes with great support.",
+    "price": 70.00,
+    "stock": 22,
+    "conditio": "New",
+    "created_at": "2023-08-21 17:30:10",
+     "imageUrl" :"img24.jpg"
+  },
+    {
+"product_id": "-82o83p-84q85r86s87t",
+"user_id": "123",
+"category": "Shoes",
+"title": "Casual Sneakers",
+"description": "Comfortable sneakers for everyday wear.",
+"price": 55.00,
+"stock": 50,
+"conditio": "New",
+"created_at": "2023-08-22 06:10:45",
+ "imageUrl" :"img25.webp"
+},
+
+  {
+    "product_id": "-72e73f-74g75h76i77j",
+    "user_id": "123",
+    "category": "Shoes",
+    "title": "Hiking Boots",
+    "description": "Durable and comfortable boots for outdoor activities.",
+    "price": 85.00,
+    "stock": 28,
+    "conditio": "New",
+    "created_at": "2023-08-22 00:20:00",
+     "imageUrl" :"img26.jpeg"
+  },
+  {
+    "product_id": "-68a69b-70c71d72e73f",
+    "user_id": "123",
+    "category": "Laptops",
+    "title": "Laptop Sleeve",
+    "description": "Protective laptop sleeve with waterproof fabric.",
+    "price": 39.99,
+    "stock": 18,
+    "conditio": "New",
+    "created_at": "2023-08-21 22:15:35",
+     "imageUrl" :"img27.jpg"
+  },
+  {
+    "product_id": "2l-3m4n-5o6p7q8r9s0t",
+    "user_id": "123",
+    "category": "Laptops",
+    "title": "Laptop Cooling Pad",
+    "description": "Keeps your laptop cool during intensive use.",
+    "price": 45.00,
+    "stock": 25,
+    "conditio": "New",
+    "created_at": "2023-08-21 14:30:20",
+     "imageUrl" :"img28.jpg"
+  },
+    {
+    "product_id": "fsdfsdfdsfdsfasdweerdsf",
+"user_id": "123",
+"category": "Laptops",
+"title": "Laptop Stand",
+"description": "Adjustable stand for laptops with cooling features.",
+"price": 29.99,
+"stock": 40,
+"conditio": "New",
+"created_at": "2023-08-22 03:55:00",
+ "imageUrl" :"img29.webp"
+},
+{
+"product_id": "-98e99f-00g01h02i03j",
+"user_id": "123",
+"category": "Laptops",
+"title": "Laptop Cooling Pad",
+"description": "Cooling pad for laptops with adjustable fans.",
+"price": 40.00,
+"stock": 35,
+"conditio": "New",
+"created_at": "2023-08-22 16:10:30",
+ "imageUrl" :"img30.jpeg"
+},
+
+
+
+
+
+
+{
+"product_id": "-88u89v-90w91x92y93z",
+"user_id": "123",
+"category": "Laptops",
+"title": "Laptop Bag",
+"description": "Spacious laptop bag with ergonomic shoulder straps.",
+"price": 55.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 10:10:00",
+ "imageUrl" :"img31.jpeg"
+},
+
+ {
+"product_id": "-03j04k-05l06m07n08o",
+"user_id": "123",
+"category": "Furniture",
+"title": "Coffee Table",
+"description": "Elegant coffee table with a glass top.",
+"price": 100.00,
+"stock": 15,
+"conditio": "New",
+"created_at": "2023-08-22 19:10:00",
+ "imageUrl" :"img32.jpg"
+},
+{
+"product_id": "-93z94a-95b96c97d98e",
+"user_id": "123",
+"category": "Furniture",
+"title": "Dining Table Set",
+"description": "Elegant dining table set with six chairs.",
+"price": 300.00,
+"stock": 6,
+"conditio": "New",
+"created_at": "2023-08-22 13:20:00",
+ "imageUrl" :"img34.webp"
+},
+{
+"product_id": "-83p84q-85r86s87t88u",
+"user_id": "123",
+"category": "Furniture",
+"title": "Modern Bookshelf",
+"description": "Sleek and stylish bookshelf with ample storage space.",
+"price": 130.00,
+"stock": 10,
+"conditio": "New",
+"created_at": "2023-08-22 06:50:30",
+ "imageUrl" :"img35.webp"
+},
+
+  {
+    "product_id": "-73f74g-75h76i77j78k",
+    "user_id": "123",
+    "category": "Furniture",
+    "title": "Adjustable Office Chair",
+    "description": "Ergonomic office chair with adjustable height and back support.",
+    "price": 150.00,
+    "stock": 12,
+    "conditio": "New",
+    "created_at": "2023-08-22 01:00:45",
+     "imageUrl" :"img36.jpg"
+  },
+ {
+    "product_id": "7q-8r9s-0t1u2v3w4x5y",
+    "user_id": "123",
+    "category": "Furniture",
+    "title": "Wooden Coffee Table",
+    "description": "Stylish and sturdy coffee table.",
+    "price": 95.00,
+    "stock": 8,
+    "conditio": "New",
+    "created_at": "2023-08-21 18:15:25",
+     "imageUrl" :"img37.jpeg"
+  },
+
+  {
+    "product_id": "-76i77j-78k79l80m81n",
+    "user_id": "123",
+    "category": "Home Garden",
+    "title": "Outdoor Patio Set",
+    "description": "Durable and stylish patio set for outdoor lounging.",
+    "price": 250.00,
+    "stock": 8,
+    "conditio": "New",
+    "created_at": "2023-08-22 02:40:10",
+     "imageUrl" :"img38.jpg"
+  },
+    {
+    "product_id": "-66y67z-68a69b70c71d",
+    "user_id": "123",
+    "category": "Home Garden",
+    "title": "Ceramic Vase",
+    "description": "Handcrafted ceramic vase with a modern design.",
+    "price": 35.75,
+    "stock": 30,
+    "conditio": "New",
+    "created_at": "2023-08-21 21:10:20",
+     "imageUrl" :"img39.jpg"
+  },
+   {
+    "product_id": "0j-1k2l-3m4n5o6p7q8r",
+    "user_id": "123",
+    "category": "Home Garden",
+    "title": "Modern Floor Lamp",
+    "description": "Bright and energy-efficient lighting.",
+    "price": 85.50,
+    "stock": 10,
+    "conditio": "New",
+    "created_at": "2023-08-21 12:10:00",
+     "imageUrl" :"img40.jpg"
+  },
+  {
+"product_id": "-96c97d-98e99f00g01h",
+"user_id": "123",
+"category": "Home Garden",
+"title": "Patio Umbrella",
+"description": "Large patio umbrella with UV protection.",
+"price": 85.00,
+"stock": 20,
+"conditio": "New",
+"created_at": "2023-08-22 15:05:45",
+ "imageUrl" :"img40.jpg"
+},
+
+
+
+
+
+
+{
+"product_id": "7i-8j9k-0l1m2n3o4p5q",
+"user_id": "123",
+"category": "Home Garden",
+"title": "Outdoor Lantern",
+"description": "Durable lantern suitable for outdoor use.",
+"price": 60.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 21:05:00",
+ "imageUrl" :"img41.webp"
+},
+
+
+
+{
+"product_id": "-86s87t-88u89v90w91x",
+"user_id": "123",
+"category": "Home Garden",
+"title": "Garden Tools Set",
+"description": "Complete set of essential garden tools.",
+"price": 85.00,
+"stock": 35,
+"conditio": "New",
+"created_at": "2023-08-22 08:50:30",
+ "imageUrl" :"img42.jpeg"
+},
+
+
+
+{
+"product_id": "-90w91x-92y93z94a95b",
+"user_id": "123",
+"category": "Men's Clothing",
+"title": "Men's Dress Shirt",
+"description": "Elegant dress shirt suitable for formal occasions.",
+"price": 50.00,
+"stock": 22,
+"conditio": "New",
+"created_at": "2023-08-22 11:30:45",
+ "imageUrl" :"img43.jpeg"
+},
+{
+"product_id": "-80m81n-82o83p84q85r",
+"user_id": "123",
+"category": "Men's Clothing",
+"title": "Men's Chino Pants",
+"description": "Casual chino pants with a slim fit.",
+"price": 45.00,
+"stock": 50,
+"conditio": "New",
+"created_at": "2023-08-22 05:00:15",
+ "imageUrl" :"img44.webp"
+},
+ {
+    "product_id": "-70c71d-72e73f74g75h",
+    "user_id": "123",
+    "category": "Men's Clothing",
+    "title": "Men's Polo Shirt",
+    "description": "Comfortable and stylish polo shirt for casual wear.",
+    "price": 25.00,
+    "stock": 35,
+    "conditio": "New",
+    "created_at": "2023-08-21 23:10:45",
+     "imageUrl" :"img45.jpeg"
+  },
+
+
+
+{
+"product_id": "-94a95b-96c97d98e99f",
+"user_id": "123",
+"category": "Electronics",
+"title": "Bluetooth Speaker",
+"description": "Portable Bluetooth speaker with high-quality sound.",
+"price": 80.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 13:55:45",
+ "imageUrl" :"img46.jpg"
+},
+
+
+
+
+
+{
+"product_id": "-04k05l-06m07n08o09p",
+"user_id": "123",
+"category": "Electronics",
+"title": "Noise-Canceling Headphones",
+"description": "Headphones with active noise-canceling technology.",
+"price": 130.00,
+"stock": 20,
+"conditio": "New",
+"created_at": "2023-08-22 19:45:15",
+ "imageUrl" :"img47.jpg"
+},
+
+
+
+  {
+    "product_id": "9i-0j1k-2l3m4n5o6p7q",
+    "user_id": "123",
+    "category": "Fashion",
+    "title": "Men's Casual Watch",
+    "description": "Stylish wristwatch with leather band.",
+    "price": 120.00,
+    "stock": 20,
+    "conditio": "New",
+    "created_at": "2023-08-21 11:22:45",
+     "imageUrl" :"img48.jpg"
+  },
+   {
+    "product_id": "-65x66y-67z68a69b70c",
+    "user_id": "123",
+    "category": "Fashion",
+    "title": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple compartments.",
+    "price": 49.99,
+    "stock": 45,
+    "conditio": "New",
+    "created_at": "2023-08-21 20:30:45",
+     "imageUrl" :"img49.webp"
+  },
+    {
+    "product_id": "-75h76i-77j78k79l80m",
+    "user_id": "123",
+    "category": "Fashion",
+    "title": "Sunglasses",
+    "description": "UV protection sunglasses with polarized lenses.",
+    "price": 65.00,
+    "stock": 40,
+    "conditio": "New",
+    "created_at": "2023-08-22 02:05:45",
+     "imageUrl" :"img50.jpg"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+"product_id": "-85r86s-87t88u89v90w",
+"user_id": "123",
+"category": "Fashion",
+"title": "Designer Belt",
+"description": "Stylish belt with high-quality buckle.",
+"price": 60.00,
+"stock": 25,
+"conditio": "New",
+"created_at": "2023-08-22 08:10:15",
+ "imageUrl" :"img51.jpg"
+},
+{
+"product_id": "-95b96c-97d98e99f001",
+"user_id": "123",
+"category": "Fashion",
+"title": "Wristwatch",
+"description": "Elegant wristwatch with a leather strap.",
+"price": 120.00,
+"stock": 18,
+"conditio": "New",
+"created_at": "2023-08-22 14:30:00",
+ "imageUrl" :"img52.jpeg "
+},
+
+{
+"product_id": "6h-7i8j-9k0l1m2n3o4p",
+"user_id": "123",
+"category": "Fashion",
+"title": "Leather Wallet",
+"description": "Genuine leather wallet with multiple compartments.",
+"price": 45.00,
+"stock": 40,
+"conditio": "New",
+"created_at": "2023-08-22 20:30:30",
+ "imageUrl" :"img53.webp"
+}
+]
