@@ -1,4 +1,3 @@
 # AIWD
-# aiwd2
-# secondPHPProject
-# IAWD
+website link :-  http://localhost/awid/view/product/home.php
+admin link  :-http://localhost/awid/adminpanal/index.php
